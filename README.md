@@ -1,2 +1,3 @@
 # tlc-group
-TLC GIT Trainning 
+TLC GIT Training
+Group Members: Marian Y. Larbi, Wilfred Abruquah, Kwabena F-Kore, Divine Tettey
