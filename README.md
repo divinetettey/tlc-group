@@ -1,2 +1,2 @@
 # tlc-group
-TLC GIT Trainning 
+TLC GIT Training 
